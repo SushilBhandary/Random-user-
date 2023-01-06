@@ -6,7 +6,7 @@ The website focuses on learning to build webside using React and handling API .
 - handling API
 - axios 
 
-## [Live Preview]()
+## [Live Preview](https://bucolic-fairy-171373.netlify.app/)
 
 ### SnapShot of the Webpage
 
